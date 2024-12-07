@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Saloon&Spa App**
 
-- 🌱 I’m currently learning **Dart &Flutter**
+- 🌱 I’m currently learning **Dart ,Flutter & Javascript **
 
 - 💬 Ask me about **Mobile Application Development**
 
