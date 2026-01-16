@@ -94,7 +94,7 @@
   </g>
 
   <!-- Main Text -->
-  <text x="600" y="160" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="url(#accentGradient)" text-anchor="middle" filter="url(#glow)">
+  <text x="600" y="160" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="url(#flutterGradient)" text-anchor="middle" filter="url(#glow)">
     AjayKrishna
     <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
   </text>
@@ -113,7 +113,7 @@
   
   <!-- Tagline -->
   <text x="600" y="280" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#58A6FF" text-anchor="middle">
-    Building Beautiful Mobile Experiences
+    Cross-Platform Developer • Web • Desktop • Mobile
   </text>
   
   <!-- Code brackets decoration -->
@@ -137,6 +137,6 @@
   <!-- Location badge -->
   <g transform="translate(530, 350)">
     <rect x="0" y="0" width="140" height="30" rx="15" fill="#1F2937" opacity="0.8"/>
-    <text x="20" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E">📍 India</text>
+    <text x="20" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E">📍Kerala, India</text>
   </g>
 </svg>
