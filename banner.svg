@@ -116,12 +116,12 @@
     Cross-Platform Developer • Web • Desktop • Mobile
   </text>
   
-  <!-- Code brackets decoration -->
-  <text x="200" y="160" font-family="'Courier New', monospace" font-size="120" font-weight="700" fill="#13B9FD" opacity="0.15">
-    &lt;
+  <!-- Code brackets decoration - Dart main() function -->
+  <text x="20" y="120" font-family="'Courier New', monospace" font-size="42" font-weight="700" fill="#13B9FD" opacity="0.12">
+    void main() {
   </text>
-  <text x="980" y="160" font-family="'Courier New', monospace" font-size="120" font-weight="700" fill="#13B9FD" opacity="0.15">
-    /&gt;
+  <text x="800" y="220" font-family="'Courier New', monospace" font-size="42" font-weight="700" fill="#13B9FD" opacity="0.12">
+    }
   </text>
   
   <!-- Tech icons hint -->
@@ -135,8 +135,8 @@
   </g>
   
   <!-- Location badge -->
-  <g transform="translate(530, 350)">
-    <rect x="0" y="0" width="140" height="30" rx="15" fill="#1F2937" opacity="0.8"/>
-    <text x="20" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E">📍Kerala, India</text>
+  <g transform="translate(510, 350)">
+    <rect x="0" y="0" width="180" height="30" rx="15" fill="#1F2937" opacity="0.8"/>
+    <text x="20" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E">📍 Kerala, India</text>
   </g>
 </svg>
