@@ -3,38 +3,149 @@
   <img src="./banner.svg" alt="AjayKrishna - Flutter Developer Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm AjayKrishna</h1>
-<h3 align="center">A passionate Flutter Developer from India</h3>
+<h1 align="center">Hey there 👋, I'm Ajay Krishna</h1>
+<h3 align="center">Flutter Frontend Developer | Real-Time Systems Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/39ad4a2d07dfd00cb03bdc6db372e8688534b2b735ed3993f791a45bf482087b/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382c7175616c6974792d3130302f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajeyy7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeyy7&label=Profile%20views&color=0e75b6&style=flat" alt="ajeyy7" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Saloon&Spa App**
-- 🌱 I'm currently learning **Dart, Flutter & Javascript**
-- 💬 Ask me about **Mobile Application Development**
-- 📫 How to reach me **ajaykrishna9872@gmail.com**
+I'm a **Flutter Frontend Developer** working at a startup, specializing in **real-time and UI-intensive applications**. My focus is on building **production-grade apps** rather than demo projects.
 
-<h3 align="left">Connect with me:</h3>
+Currently based in **Kerala, India** 🌴, I work with live data streams, real-time communications, and performance-critical Flutter applications.
+
+---
+
+### 🚀 What I'm Working On
+
+- 💼 **Flutter Frontend Developer** at a startup
+- 📡 Building real-time applications with socket-based communication
+- 🎯 Creating production-ready Flutter applications across multiple platforms
+- ⚡ Performance optimization and efficient UI implementations
+
+---
+
+### 💼 Professional Experience
+
+**Flutter Frontend Developer** | Startup  
+- Developing cross-platform applications (Mobile, Web, Desktop)
+- Working with real-time data streams and socket communication
+- Building complex, performance-focused user interfaces
+- Production app development and maintenance
+
+---
+
+### 🛠️ Technical Skills
+
+**Primary Stack:**
+- **Flutter & Dart** - Cross-platform development (Mobile, Web, Desktop)
+- **Real-time Data Handling** - TCP sockets, WebSockets
+- **UI/UX Implementation** - Complex, performance-focused interfaces
+- **Firebase** - Backend integration and real-time databases
+- **Git & GitHub** - Version control and collaboration
+
+**Systems & Tools:**
+- Linux (Basic usage)
+- SQLite & Hive (Local databases)
+- C Programming
+- Map APIs and geolocation services
+
+---
+
+### 📚 Currently Learning
+
+Expanding my skillset into systems programming and core development:
+
+- **C++** - For performance-critical applications
+- **Qt** - Desktop application development
+- **Computer Science Fundamentals** - OOP, memory management, DSA basics
+
+---
+
+### 🎓 Education
+
+**Bachelor of Computer Applications (BCA)** - 2023
+
+---
+
+### 🎯 Interests & Focus Areas
+
+- 🛸 **Drones & Autonomous Systems**
+- ⚙️ **Systems Programming**
+- 🔧 **Performance Optimization**
+- 💾 **Low-level Computing & Memory Management**
+
+---
+
+### 📫 Let's Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/ajay-krishna-36193018b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-krishna-36193018b" height="30" width="40" /></a>
-<a href="https://instagram.com/aj.3.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aj.3.y" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-krishna-36193018b" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://instagram.com/aj.eyyy" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="mailto:ajaykrishna9872@gmail.com">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+**Email:** ajaykrishna9872@gmail.com
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+</a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+</a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeyy7&show_icons=true&locale=en&layout=compact" alt="ajeyy7" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeyy7&show_icons=true&locale=en" alt="ajeyy7" /></p>
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeyy7&" alt="ajeyy7" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajeyy7&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajeyy7&theme=dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeyy7&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Building production-grade applications with a focus on performance and reliability"</i>
+</p>
