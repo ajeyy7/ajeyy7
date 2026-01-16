@@ -1,142 +1,40 @@
-<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#161B22;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
-    </linearGradient>
-    
-    <linearGradient id="flutterGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#02569B;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#0468D7;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#13B9FD;stop-opacity:1" />
-    </linearGradient>
-    
-    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#13B9FD;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#6B46FF;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF6B9D;stop-opacity:1" />
-    </linearGradient>
+<!-- Banner at the very top -->
+<p align="center">
+  <img src="./banner.svg" alt="AjayKrishna - Flutter Developer Banner" width="100%"/>
+</p>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-  
-  <!-- Background -->
-  <rect width="1200" height="400" fill="url(#bgGradient)"/>
-  
-  <!-- Animated particles -->
-  <g id="particles" opacity="0.6">
-    <circle cx="100" cy="80" r="2" fill="#13B9FD">
-      <animate attributeName="cy" values="80;320;80" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="150" r="1.5" fill="#6B46FF">
-      <animate attributeName="cy" values="150;50;150" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="400" cy="100" r="2.5" fill="#FF6B9D">
-      <animate attributeName="cy" values="100;300;100" dur="10s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="10s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="550" cy="200" r="2" fill="#13B9FD">
-      <animate attributeName="cy" values="200;80;200" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="700" cy="120" r="1.5" fill="#6B46FF">
-      <animate attributeName="cy" values="120;280;120" dur="9s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="9s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="850" cy="180" r="2" fill="#FF6B9D">
-      <animate attributeName="cy" values="180;100;180" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1000" cy="90" r="2.5" fill="#13B9FD">
-      <animate attributeName="cy" values="90;310;90" dur="11s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="11s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1100" cy="160" r="1.5" fill="#6B46FF">
-      <animate attributeName="cy" values="160;60;160" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="7s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  
-  <!-- Animated wave lines -->
-  <path d="M0,200 Q300,150 600,200 T1200,200" stroke="url(#accentGradient)" stroke-width="2" fill="none" opacity="0.3">
-    <animate attributeName="d" 
-             values="M0,200 Q300,150 600,200 T1200,200;
-                     M0,200 Q300,250 600,200 T1200,200;
-                     M0,200 Q300,150 600,200 T1200,200" 
-             dur="4s" repeatCount="indefinite"/>
-  </path>
-  
-  <path d="M0,220 Q300,270 600,220 T1200,220" stroke="url(#flutterGradient)" stroke-width="2" fill="none" opacity="0.2">
-    <animate attributeName="d" 
-             values="M0,220 Q300,270 600,220 T1200,220;
-                     M0,220 Q300,170 600,220 T1200,220;
-                     M0,220 Q300,270 600,220 T1200,220" 
-             dur="5s" repeatCount="indefinite"/>
-  </path>
+<h1 align="center">Hi 👋, I'm AjayKrishna</h1>
+<h3 align="center">A passionate Flutter Developer from India</h3>
 
-  <!-- Flutter Logo Icon (Stylized) -->
-  <g transform="translate(100, 140)">
-    <polygon points="0,40 30,10 30,70" fill="#13B9FD" opacity="0.8" filter="url(#glow)">
-      <animateTransform attributeName="transform" type="rotate" from="0 15 40" to="360 15 40" dur="20s" repeatCount="indefinite"/>
-    </polygon>
-    <polygon points="15,40 45,10 45,40 30,55" fill="#0468D7" opacity="0.9">
-      <animateTransform attributeName="transform" type="rotate" from="0 30 32.5" to="360 30 32.5" dur="20s" repeatCount="indefinite"/>
-    </polygon>
-  </g>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/39ad4a2d07dfd00cb03bdc6db372e8688534b2b735ed3993f791a45bf482087b/68747470733a2f2f696d672e6574696d672e636f6d2f7468756d622f6d7369642d38343134363038332c77696474682d313031352c6865696768742d3736312c696d6773697a652d3633383035332c726573697a656d6f64652d382c7175616c6974792d3130302f7072696d652f746563686e6f6c6f67792d616e642d73746172747570732f626f6f74696e672d75702d646576656c6f7065722d65636f6e6f6d792d686f772d746563682d73746172747570732d6172652d68656c70696e672d636f646572732d6275696c642d616e642d746573742d736f6674776172652d6661737465722e6a7067">
 
-  <!-- Main Text -->
-  <text x="600" y="160" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="url(#accentGradient)" text-anchor="middle" filter="url(#glow)">
-    AjayKrishna
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
-  </text>
-  
-  <!-- Subtitle with typing effect appearance -->
-  <text x="600" y="210" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="300" fill="#8B949E" text-anchor="middle">
-    Flutter Developer
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
-  </text>
-  
-  <!-- Decorative line -->
-  <line x1="400" y1="240" x2="800" y2="240" stroke="url(#accentGradient)" stroke-width="2" opacity="0.5">
-    <animate attributeName="x1" values="400;420;400" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="x2" values="800;780;800" dur="2s" repeatCount="indefinite"/>
-  </line>
-  
-  <!-- Tagline -->
-  <text x="600" y="280" font-family="'Courier New', monospace" font-size="18" font-weight="400" fill="#58A6FF" text-anchor="middle">
-    Building Beautiful Mobile Experiences
-  </text>
-  
-  <!-- Code brackets decoration -->
-  <text x="200" y="160" font-family="'Courier New', monospace" font-size="120" font-weight="700" fill="#13B9FD" opacity="0.15">
-    &lt;
-  </text>
-  <text x="980" y="160" font-family="'Courier New', monospace" font-size="120" font-weight="700" fill="#13B9FD" opacity="0.15">
-    /&gt;
-  </text>
-  
-  <!-- Tech icons hint -->
-  <g transform="translate(480, 320)" opacity="0.7">
-    <circle cx="0" cy="0" r="8" fill="#13B9FD"/>
-    <circle cx="30" cy="0" r="8" fill="#6B46FF"/>
-    <circle cx="60" cy="0" r="8" fill="#FF6B9D"/>
-    <circle cx="90" cy="0" r="8" fill="#13B9FD"/>
-    <circle cx="120" cy="0" r="8" fill="#6B46FF"/>
-    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3s" repeatCount="indefinite"/>
-  </g>
-  
-  <!-- Location badge -->
-  <g transform="translate(530, 350)">
-    <rect x="0" y="0" width="140" height="30" rx="15" fill="#1F2937" opacity="0.8"/>
-    <text x="20" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E">📍 India</text>
-  </g>
-</svg>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeyy7&label=Profile%20views&color=0e75b6&style=flat" alt="ajeyy7" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I'm currently working on **Saloon&Spa App**
+- 🌱 I'm currently learning **Dart, Flutter & Javascript**
+- 💬 Ask me about **Mobile Application Development**
+- 📫 How to reach me **ajaykrishna9872@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ajay-krishna-36193018b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-krishna-36193018b" height="30" width="40" /></a>
+<a href="https://instagram.com/aj.3.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aj.3.y" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajeyy7&show_icons=true&locale=en&layout=compact" alt="ajeyy7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajeyy7&show_icons=true&locale=en" alt="ajeyy7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajeyy7&" alt="ajeyy7" /></p>
