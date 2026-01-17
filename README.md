@@ -62,7 +62,6 @@ Expanding my skillset into systems programming and core development:
 
 - **C++** - For performance-critical applications
 - **Qt** - Desktop application development
-- **Computer Science Fundamentals** - OOP, memory management, DSA basics
 
 ---
 
