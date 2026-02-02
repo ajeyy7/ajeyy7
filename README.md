@@ -29,33 +29,6 @@ Currently based in **Kerala, India** 🌴, I work with live data streams, real-t
 
 ---
 
-### 💼 Professional Experience
-
-**Flutter Frontend Developer** | Startup  
-- Developing cross-platform applications (Mobile, Web, Desktop)
-- Working with real-time data streams and socket communication
-- Building complex, performance-focused user interfaces
-- Production app development and maintenance
-
----
-
-### 🛠️ Technical Skills
-
-**Primary Stack:**
-- **Flutter & Dart** - Cross-platform development (Mobile, Web, Desktop)
-- **Real-time Data Handling** - TCP sockets, WebSockets
-- **UI/UX Implementation** - Complex, performance-focused interfaces
-- **Firebase** - Backend integration and real-time databases
-- **Git & GitHub** - Version control and collaboration
-
-**Systems & Tools:**
-- Linux (Basic usage)
-- SQLite & Hive (Local databases)
-- C Programming
-- Map APIs and geolocation services
-
----
-
 ### 📚 Currently Learning
 
 Expanding my skillset into systems programming and core development:
@@ -63,20 +36,6 @@ Expanding my skillset into systems programming and core development:
 - **C++** - For performance-critical applications
 - **Qt** - Desktop application development
 
----
-
-### 🎓 Education
-
-**Bachelor of Computer Applications (BCA)** - 2023
-
----
-
-### 🎯 Interests & Focus Areas
-
-- 🛸 **Drones & Autonomous Systems**
-- ⚙️ **Systems Programming**
-- 🔧 **Performance Optimization**
-- 💾 **Low-level Computing & Memory Management**
 
 ---
 
