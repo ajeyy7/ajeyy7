@@ -237,6 +237,6 @@
   <!-- Location badge -->
   <g transform="translate(510, 350)">
     <rect x="0" y="0" width="180" height="30" rx="15" fill="#1F2937" opacity="0.8"/>
-    <text x="20" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E">📍 Kerala, India</text>
+    <text x="20" y="20" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#8B949E">📍 Kerala,India🌴</text>
   </g>
 </svg>
